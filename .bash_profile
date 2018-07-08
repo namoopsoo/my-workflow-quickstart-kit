@@ -13,7 +13,7 @@ source ~/.git-completion.bash
 
 export PATH=/usr/local/miniconda3/bin:"$PATH"
 
-# when using pyenv...
+# when using pyenv... but not when using Minoconda, because that breaks conda
 # eval "$(pyenv init -)"
 
 
