@@ -29,7 +29,8 @@
 ### Secondary tools
 
 #### homebrew
-* `graphviz`
+* `brew install graphviz`
+* `brew install homebrew/cask/mactex`
 
 ## Other setup notes
 
