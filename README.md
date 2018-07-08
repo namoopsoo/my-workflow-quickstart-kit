@@ -32,7 +32,7 @@
 
 #### homebrew
 * `brew install graphviz`
-* `brew install homebrew/cask/mactex`
+* `brew install homebrew/cask/mactex` , typically installing the `bins` in `/Library/TeX/texbin/`
 
 ## Other setup notes
 
