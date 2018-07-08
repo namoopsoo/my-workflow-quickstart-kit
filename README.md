@@ -1,14 +1,38 @@
 # my-workflow-quickstart-kit
 
-### prepare .gitconfig
-* load .gitconfig from this repo.
+## Tooling
 
-### grab the git bash completion
-```bash
-# from https://github.com/git/git/blob/master/contrib/completion/git-completion.bash
-cd
-curl -o .git-completion.bash https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash
+### Ordered Essential tools for a new Mac laptop
+* Xcode -> Commandline tools -> homebrew
+* chrome
 
-# update ~/.bash_profile
-```
+#### Chrome
+* Miniconda 2 
+* git bash completion
+* my `.vimrc` , https://github.com/namoopsoo/my-workflow-quickstart-kit/blob/master/.vimrc
+* `lein`
+* my `.gitconfig` , https://github.com/namoopsoo/my-workflow-quickstart-kit/blob/master/.gitconfig
+* Docker
+* Amphetamine for Mac
+* https://github.com/git/git/blob/master/contrib/completion/git-completion.bash => ~/.git-completion.bash
 
+
+#### vim
+* pathogen and ctrlp
+
+#### homebrew
+* `macvim`
+* `the_silver_searcher` , `ag`
+* 
+
+
+### Secondary tools
+
+#### homebrew
+* `graphviz`
+
+## Other setup notes
+
+#### setup AWS commandline
+* setup profiles in ~/.aws/config
+* setup credentials in ~/.aws/credentials
