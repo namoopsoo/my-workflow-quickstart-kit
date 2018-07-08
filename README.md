@@ -3,11 +3,17 @@
 ## Tooling
 
 ### Ordered Essential tools for a new Mac laptop
-* Xcode -> Commandline tools -> homebrew
+* Xcode ; Commandline tools ; homebrew
 * chrome
 
+#### homebrew
+* `macvim`
+* `the_silver_searcher` , `ag`
+* `brew install homebrew/cask/miniconda` (_or directly from https://www.anaconda.com/what-is-anaconda/ if needed_ )
+
+
 #### Chrome
-* Miniconda 2 
+* Miniconda 3 , 
 * git bash completion
 * my `.vimrc` , https://github.com/namoopsoo/my-workflow-quickstart-kit/blob/master/.vimrc
 * `lein`
@@ -20,10 +26,6 @@
 #### vim
 * pathogen and ctrlp
 
-#### homebrew
-* `macvim`
-* `the_silver_searcher` , `ag`
-* 
 
 
 ### Secondary tools
